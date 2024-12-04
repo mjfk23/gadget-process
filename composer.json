@@ -19,6 +19,7 @@
   "require": {
     "php": "^8.1",
     "mjfk23/gadget-core": "^2.0",
+    "mjfk23/symfony-bundle": "^1.0",
     "symfony/process": "6.4.*"
   },
   "require-dev": {
