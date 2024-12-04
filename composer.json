@@ -30,7 +30,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Gadget\\Process\\": "src/"
+      "Gadget\\Process\\": ["src/", "bundle/"]
     }
   },
   "config": {
